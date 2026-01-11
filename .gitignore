@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/__pycache__/
+
+# Environments
+.env
+backend/.env
+frontend/.env
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
